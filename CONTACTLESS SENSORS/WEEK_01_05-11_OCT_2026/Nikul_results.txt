@@ -1,0 +1,17 @@
+Week 01 Python Statistical Analysis
+Student: Nikul
+University: TH Deggendorf
+Course: Special Topics in Contactless Sensor Systems
+Semester: Winter Semester 2026/27
+Assignment: Home Exercise 01 – Statistical Analysis
+Week: 05–11 October 2026
+Dataset: Nikul_noise_data.csv
+
+Number of measurements: 100
+Mean: 45006.45
+Median: 45006.50
+Sample standard deviation: 164.29761
+Minimum: 44644
+Maximum: 45338
+
+Interpretation: The mean and median differ by 0.05, so the two central measures are nearly identical. The sample standard deviation is 164.30. Measurements range from 44644 to 45338, a total range of 694.
