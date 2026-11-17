@@ -1,0 +1,17 @@
+# Python environments and caches
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local input and generated output that embeds it
+Horizontal_QRM_Micro_tomolibri*.png
+results/roi_overview.png
+
+# Operating-system files and logs
+.DS_Store
+Thumbs.db
+*.log

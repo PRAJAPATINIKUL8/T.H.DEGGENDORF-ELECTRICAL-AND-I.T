@@ -1,0 +1,7 @@
+fit_group,weighting,n_measurements,amplitude_A,amplitude_A_std_error,sigma_f_lp_per_mm,sigma_f_std_error_lp_per_mm,r_squared,rmse,fit_status
+all orientations,weighted,29,0.37784444,0.0064385129,96.159675,2.6345,0.31296801,0.078822692,fitted
+all orientations,unweighted,29,0.37667691,0.018653564,64.174996,5.4061254,0.65721973,0.055676342,fitted
+vertical,weighted,14,0.36848845,0.0085538852,79.793511,3.7462317,0.55218605,0.060310536,fitted
+vertical,unweighted,14,0.37174243,0.026138989,63.022696,7.7177966,0.67197542,0.051617572,fitted
+horizontal,weighted,15,0.39864405,0.010008465,96.166725,3.1929293,0.19943464,0.089028282,fitted
+horizontal,unweighted,15,0.3822518,0.028244325,64.948621,7.9449901,0.65265777,0.058641948,fitted
